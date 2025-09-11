@@ -80,12 +80,7 @@
       "date": "2025-05-28",
       "unread": false
     }
-  ],
-  "settings": {
-    "notifications": true,
-    "subtaskNotifications": false,
-    "sounds": true
-  }
+  ]
 }
 ```
 
